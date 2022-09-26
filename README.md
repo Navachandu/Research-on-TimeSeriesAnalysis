@@ -2,7 +2,7 @@
 # Incidence Response Model For Pandemics
 ## Research Lab AI and COVID G2
 
-### [About Git Repository](https://github.com/lotzmann/ResearchLabST2022-Group2)
+### [About Git Repository]([https://github.com/lotzmann/ResearchLabST2022-Group2](https://github.com/Navachandu/Research-on-TimeSeriesAnalysis/tree/main/TimeSeriesonCovid))
 ##### Click on the links to navigate
 
 #### [Documentation](https://github.com/lotzmann/ResearchLabST2022-Group2/tree/main/Documentation)
