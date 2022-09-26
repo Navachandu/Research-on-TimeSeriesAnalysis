@@ -5,16 +5,16 @@
 ### [About Git Repository]([https://github.com/lotzmann/ResearchLabST2022-Group2](https://github.com/Navachandu/Research-on-TimeSeriesAnalysis/tree/main/TimeSeriesonCovid))
 ##### Click on the links to navigate
 
-#### [Documentation](https://github.com/lotzmann/ResearchLabST2022-Group2/tree/main/Documentation)
+#### [Documentation](https://github.com/Navachandu/Research-on-TimeSeriesAnalysis/tree/main/TimeSeriesonCovid/Documentation)
 Here, documentation of the following can be found:
 - Algorithm Approaches
 - Algorithm results after Training
 - Final Documentation
 
-#### [Presentations](https://github.com/lotzmann/ResearchLabST2022-Group2/tree/main/Presentations)
+#### [Presentations](https://github.com/Navachandu/Research-on-TimeSeriesAnalysis/tree/main/TimeSeriesonCovid/Presentations)
 - Here all the Powerpoint Presentations can be found.
 
-#### [Minutes of Meeting](https://github.com/lotzmann/ResearchLabST2022-Group2/tree/main/MinutesOfMeeting)
+#### [Minutes of Meeting](https://github.com/Navachandu/Research-on-TimeSeriesAnalysis/tree/main/TimeSeriesonCovid/MinutesOfMeeting)
 - Here all the summaries from official review meetings can be found.
 
 #### [Architecture.pdf](https://github.com/lotzmann/ResearchLabST2022-Group2/blob/main/architecture.pdf)
