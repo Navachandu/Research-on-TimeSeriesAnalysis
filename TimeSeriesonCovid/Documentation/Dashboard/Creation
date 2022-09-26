@@ -1,0 +1,8 @@
+Creating a Story In Tableau:
+
+Approach:
+1.Import the Data containing Date, Country, Cases, Deaths, Incidence Rate, Cluster
+2.Apply filter to show daily data
+3.Colour them based on clusters
+4.Add Labels and Legends
+5.Merge them into Story
